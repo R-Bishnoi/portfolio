@@ -10,7 +10,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
 
 const resumeLink =
-  "https://drive.google.com/file/d/19sPaxnDTAfw3L0DhnvRmVi2bDFiKO_5f/view?usp=share_link";
+  "https://drive.google.com/file/d/1y-N0GdyHU79aRAyxzcd7T5vQig3TlN2Q/view?usp=sharing";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
